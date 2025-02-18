@@ -37,7 +37,7 @@ pip install -r requirements.txt
 2. **Run the script and enter the file path to enumerate:**
     
     ```bash
-    python3 lfi_enumerator.py
+    python3 lfi_enumerator.py -i [requestfile]
     ```
     
 3. **Enter the file to search for**, e.g., `/config/database.yml`
